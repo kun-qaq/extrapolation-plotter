@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# PyInstaller / build outputs
+build/
+build_onefile/
+dist/
+dist_onefile/
+*.exe
+*.spec.bak
+
+# Runtime outputs
+output/
+.cache/
+*.log
+error.log
+xaml_error.log
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

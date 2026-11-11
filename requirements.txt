@@ -1,0 +1,10 @@
+typing-extensions>=4.12
+winrt-runtime>=4,<5
+winrt-Microsoft.WindowsAppRuntime.Bootstrap>=4!2.6.5
+winrt-Microsoft.WindowsAppSDK.WinUI>=4!2.6.5
+winrt-Windows.Foundation>=4!10.0.28000.2957
+winrt-Windows.Foundation.Collections>=4!10.0.28000.2957
+winrt-Windows.UI.Xaml.Interop>=4!10.0.28000.2957
+winrt-Windows.Graphics>=4!10.0.28000.2957
+numpy>=2.0
+matplotlib>=3.9
